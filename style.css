@@ -1,3 +1,9 @@
+/*Styling the background*/
+
+body {
+  background-color: rgb(25, 25, 112);
+  color: rgb(255, 255, 255);
+}
 /* Styling the title */
 
 .title {
@@ -42,4 +48,8 @@
 h2 {
   text-align: center;
   font-family: "Fantasy", Comic Sans MS, Comic Sans;
+}
+
+#discord {
+  color: rgb(255, 255, 255);
 }
